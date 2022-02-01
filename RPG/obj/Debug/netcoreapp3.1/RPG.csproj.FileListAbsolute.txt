@@ -1,0 +1,13 @@
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\diogo\Documents\NET-DIO\Projeto-Dio-ClassesCsharp\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
