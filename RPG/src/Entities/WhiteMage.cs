@@ -8,7 +8,7 @@ namespace RPG.src.Entities
 
         public override string Attack()
         {
-            return this.HeroName+" Usou Cura Nivel 1";
+            return this.HeroName +" Usou Cura Nivel ";
         }
     }
 }

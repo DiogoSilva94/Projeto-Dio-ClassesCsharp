@@ -16,6 +16,8 @@ namespace RPG
            Console.WriteLine(natali);
            Console.WriteLine(natali.Attack());
            Console.WriteLine(natali.Escape());
+           Console.WriteLine(natali.Defend());
+
         }
     }
 }
